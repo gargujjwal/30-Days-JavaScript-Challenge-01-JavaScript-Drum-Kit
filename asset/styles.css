@@ -8,7 +8,7 @@
 
 html {
     font-size: 10px;
-    background: url("background.jpg") bottom center;
+    background: url("images/background.jpg") bottom center;
     background-size: cover;
 }
 
@@ -41,9 +41,6 @@ main {
     text-align: center;
 }
 
-.key:hover {
-    transform: scale(1.1);
-}
 
 .key p {
     color: #ffc600;
@@ -72,4 +69,10 @@ main {
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+@media only screen and (min-width: 768px) {
+    .key:hover {
+        transform: scale(1.1);
+    }
 }
