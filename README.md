@@ -59,22 +59,20 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://frolicking-peony-195f7f.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ### Built With
 
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
-* [![JS][JavaScript]][JS-url]
+* [![JS][JS]][JS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Installation
 
@@ -87,11 +85,14 @@
 
 
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any
+contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also
+simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -105,6 +106,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -114,16 +116,19 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
+
 ## Contact
 
 Ujjwal Garg - [@linkedin_handle](https://linkedin.com/in/ujjwal-garg-3a5639243) - ujjwalgarg100204@gmail.com
 
-Project Link: [https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit](https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit)
+Project
+Link: [https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit](https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 * [30 Days Vanilla JS Challenge](https://javascript30.com/)
@@ -136,22 +141,41 @@ Project Link: [https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
+
 [contributors-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/graphs/contributors
+
 [forks-shield]: https://img.shields.io/github/forks/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
+
 [forks-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/network/members
+
 [stars-shield]: https://img.shields.io/github/stars/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
+
 [stars-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/stargazers
+
 [issues-shield]: https://img.shields.io/github/issues/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
+
 [issues-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/issues
+
 [license-shield]: https://img.shields.io/github/license/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
+
 [license-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/blob/master/LICENSE.txt
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
 [linkedin-url]: https://linkedin.com/in/ujjwal-garg-3a5639243
+
 [product-screenshot]: readme-asset/demo.png
+
 [HTML]: https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white
+
 [HTML-url]: https://www.w3schools.com/html/html_intro.asp
+
 [CSS]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=61DAFB
+
 [CSS-url]: https://www.w3schools.com/css/css_intro.asp
+
 [JS]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white
+
 [JS-url]: https://www.w3schools.com/js/js_intro.asp
