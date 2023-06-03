@@ -1,35 +1,35 @@
-<a name="readme-top"></a>
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
+<a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit">
-      <img src="asset/images/drum-kit-favicon.png" alt="Logo" width="80" height="80">
+    <img src="./asset/images/drum-kit-favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">JavaScript Drum Kit</h3>
+<h3 align="center">Drum Kit</h3>
 
   <p align="center">
-    This is the 1st challenge of 30 Days Vanilla JavaScript challenge. In this challenge, a working Drum Kit which uses keyboard and mouse clicks to play sounds is made using vanilla JavaScript.
+    The minimalist drum kit website designed with responsiveness in mind. Explore the simplicity of six distinct sounds, crafted to bring rhythm and creativity to your fingertips.
     <br />
-    <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit">View Demo</a>
+    <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://ujjwalgarg100204.github.io/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit">View Demo</a>
     ·
     <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/issues">Report Bug</a>
     ·
     <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/issues">Request Feature</a>
   </p>
 </div>
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -41,58 +41,46 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contact">Author</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://frolicking-peony-195f7f.netlify.app/)
+Experience the essence of rhythm with Drum Kit, a responsive drum kit website powered by Tailwind CSS. Embrace the beauty of simplicity as you explore our carefully curated selection of drum kits, each capable of producing only six unique and captivating sounds. Unleash your creativity within this minimalist setup, where every beat counts and simplicity becomes the catalyst for musical innovation. Whether you're a beginner or a seasoned drummer, DrumEssentials offers an immersive and focused drumming experience like no other. Let the limited sound palette ignite your passion for percussive expression and take your drumming skills to new heights.
+
+#### Desktop Design
+
+<p align="center">
+  <img src="./screenshots/desktop-view.gif" alt="desktop view" width="600"  />
+</p>
+
+#### Mobile Design
+
+<p align="center">
+	<img src="./screenshots/mobile-view.gif" alt="mobile view" height="500" /> 
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-* [![HTML][HTML]][HTML-url]
-* [![CSS][CSS]][CSS-url]
-* [![JS][JS]][JS-url]
+-   [![Tailwind][tailwind-shield]][tailwind-url]
+-   [![JavaScript][js-sheild]][javascript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Installation
-
-* Clone the repo
-   ```sh
-   git clone https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.git
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any
-contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also
-simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -103,8 +91,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 
 ## License
@@ -113,69 +99,34 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Links
 
+-   Repo URL: [https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit](https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit)
+-   Live Site URL: [https://ujjwalgarg100204.github.io/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit](https://ujjwalgarg100204.github.io/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit)
 
-<!-- CONTACT -->
+<!-- AUTHOR -->
 
-## Contact
+## Author
 
-Ujjwal Garg - [@linkedin_handle](https://linkedin.com/in/ujjwal-garg-3a5639243) - ujjwalgarg100204@gmail.com
-
-Project
-Link: [https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit](https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-* [30 Days Vanilla JS Challenge](https://javascript30.com/)
-* [Img Shields](https://shields.io)
-* [Netlify](https://www.netlify.com)
+-   Website - [Ujjwal Garg](https://github.com/ujjwalgarg100204)
+-   Instagram - [@ujjwalgarg100204](https://www.instagram.com/ujjwalgarg100204/)
+-   Linkedin - [@ujjwalgarg100204](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
+-   Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
-
-[contributors-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/graphs/contributors
-
-[forks-shield]: https://img.shields.io/github/forks/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
-
-[forks-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/network/members
-
 [stars-shield]: https://img.shields.io/github/stars/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
-
 [stars-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
-
-[issues-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/issues
-
 [license-shield]: https://img.shields.io/github/license/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
-
 [license-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/blob/master/LICENSE.txt
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-
-[linkedin-url]: https://linkedin.com/in/ujjwal-garg-3a5639243
-
-[product-screenshot]: readme-asset/demo.png
-
-[HTML]: https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white
-
-[HTML-url]: https://www.w3schools.com/html/html_intro.asp
-
-[CSS]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=61DAFB
-
-[CSS-url]: https://www.w3schools.com/css/css_intro.asp
-
-[JS]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white
-
-[JS-url]: https://www.w3schools.com/js/js_intro.asp
+[linkedin-url]: https://www.linkedin.com/in/ujjwal-garg-3a5639243
+[desktop-view-screenshot]: ./screenshots/desktop-view.png
+[mobile-view-screenshot]: ./screenshots/mobile-view.png
+[tailwind-shield]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[tailwind-url]: https://tailwindcss.com
+[js-sheild]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
