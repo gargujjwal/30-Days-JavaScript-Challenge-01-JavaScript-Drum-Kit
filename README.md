@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit">
+  <a href="https://github.com/gargujjwal/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit">
     <img src="./asset/images/drum-kit-favicon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     The minimalist drum kit website designed with responsiveness in mind. Explore the simplicity of six distinct sounds, crafted to bring rhythm and creativity to your fingertips.
     <br />
-    <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/gargujjwal/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ujjwalgarg100204.github.io/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit">View Demo</a>
+    <a href="https://gargujjwal.github.io/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit">View Demo</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/issues">Report Bug</a>
+    <a href="https://github.com/gargujjwal/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/issues">Request Feature</a>
+    <a href="https://github.com/gargujjwal/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/issues">Request Feature</a>
   </p>
 </div>
 
@@ -101,16 +101,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Links
 
--   Repo URL: [https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit](https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit)
--   Live Site URL: [https://ujjwalgarg100204.github.io/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit](https://ujjwalgarg100204.github.io/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit)
+-   Repo URL: [https://github.com/gargujjwal/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit](https://github.com/gargujjwal/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit)
+-   Live Site URL: [https://gargujjwal.github.io/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit](https://gargujjwal.github.io/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit)
 
 <!-- AUTHOR -->
 
 ## Author
 
--   Website - [Ujjwal Garg](https://github.com/ujjwalgarg100204)
--   Instagram - [@ujjwalgarg100204](https://www.instagram.com/ujjwalgarg100204/)
--   Linkedin - [@ujjwalgarg100204](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
+-   Website - [Ujjwal Garg](https://github.com/gargujjwal)
+-   Instagram - [@gargujjwal](https://www.instagram.com/gargujjwal/)
+-   Linkedin - [@gargujjwal](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
 -   Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -118,10 +118,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[stars-shield]: https://img.shields.io/github/stars/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
-[stars-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/stargazers
-[license-shield]: https://img.shields.io/github/license/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
-[license-url]: https://github.com/ujjwalgarg100204/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/gargujjwal/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
+[stars-url]: https://github.com/gargujjwal/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/stargazers
+[license-shield]: https://img.shields.io/github/license/gargujjwal/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit.svg?style=for-the-badge
+[license-url]: https://github.com/gargujjwal/30-Days-JavaScript-Challenge-01-JavaScript-Drum-Kit/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ujjwal-garg-3a5639243
 [desktop-view-screenshot]: ./screenshots/desktop-view.png
